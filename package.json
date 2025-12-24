@@ -19,7 +19,7 @@
     "eslint-plugin-jsdoc": "^50.6.17",
     "eslint-plugin-jsx-a11y": "^6.10.2",
     "globals": "^15.14.0",
-    "hugo-extended": ">=0.101.0",
+    "hugo-extended": ">=0.153.0",
     "postcss": ">=8.4.31",
     "postcss-cli": ">=9.1.0",
     "prettier": "^3.2.5",
