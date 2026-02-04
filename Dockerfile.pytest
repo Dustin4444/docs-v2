@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM golang:1.26rc2
 
 ### Install InfluxDB clients for testing
 # Install InfluxDB keys to verify client installs.
