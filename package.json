@@ -22,7 +22,7 @@
     "@evilmartians/lefthook": "^1.7.1",
     "@types/js-yaml": "^4.0.9",
     "autoprefixer": ">=10.2.5",
-    "cypress": "^14.0.1",
+    "cypress": "^15.15.0",
     "eslint": "^10.0.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-import": "^2.31.0",
